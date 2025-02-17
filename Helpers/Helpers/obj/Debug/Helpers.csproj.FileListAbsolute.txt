@@ -1,0 +1,6 @@
+C:\Users\rurokaze\source\repos\Helpers\Helpers\bin\Debug\Helpers.dll
+C:\Users\rurokaze\source\repos\Helpers\Helpers\bin\Debug\Helpers.pdb
+C:\Users\rurokaze\source\repos\Helpers\Helpers\obj\Debug\Helpers.csproj.AssemblyReference.cache
+C:\Users\rurokaze\source\repos\Helpers\Helpers\obj\Debug\Helpers.csproj.CoreCompileInputs.cache
+C:\Users\rurokaze\source\repos\Helpers\Helpers\obj\Debug\Helpers.dll
+C:\Users\rurokaze\source\repos\Helpers\Helpers\obj\Debug\Helpers.pdb

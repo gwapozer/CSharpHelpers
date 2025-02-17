@@ -1,0 +1,13 @@
+C:\Users\rurokaze\source\repos\Helpers\PrototypeApp\bin\Debug\PrototypeApp.exe.config
+C:\Users\rurokaze\source\repos\Helpers\PrototypeApp\bin\Debug\PrototypeApp.exe
+C:\Users\rurokaze\source\repos\Helpers\PrototypeApp\bin\Debug\PrototypeApp.pdb
+C:\Users\rurokaze\source\repos\Helpers\PrototypeApp\obj\Debug\PrototypeApp.csproj.AssemblyReference.cache
+C:\Users\rurokaze\source\repos\Helpers\PrototypeApp\obj\Debug\PrototypeApp.Properties.Resources.resources
+C:\Users\rurokaze\source\repos\Helpers\PrototypeApp\obj\Debug\PrototypeApp.csproj.GenerateResource.cache
+C:\Users\rurokaze\source\repos\Helpers\PrototypeApp\obj\Debug\PrototypeApp.csproj.CoreCompileInputs.cache
+C:\Users\rurokaze\source\repos\Helpers\PrototypeApp\obj\Debug\PrototypeApp.exe
+C:\Users\rurokaze\source\repos\Helpers\PrototypeApp\obj\Debug\PrototypeApp.pdb
+C:\Users\rurokaze\source\repos\Helpers\PrototypeApp\obj\Debug\PrototypeApp.PrototypeFrm.resources
+C:\Users\rurokaze\source\repos\Helpers\PrototypeApp\bin\Debug\Helpers.dll
+C:\Users\rurokaze\source\repos\Helpers\PrototypeApp\bin\Debug\Helpers.pdb
+C:\Users\rurokaze\source\repos\Helpers\PrototypeApp\obj\Debug\Prototyp.87552FE2.Up2Date
