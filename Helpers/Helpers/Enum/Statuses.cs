@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Collections;
 using System.Collections.Generic;
 using System.Linq;
@@ -6,30 +6,17 @@ using System.Runtime.CompilerServices;
 using System.Text;
 using System.Threading.Tasks;
 using Helpers.Entity;
+using Helpers.Utilities;
+
 
 namespace Helpers.Enum
 {
-    public  class Statuses : IEnumerable<IDName>
+    public  class Statuses : Enumeration
     {
-        private static List<IDName> statuses = new List<IDName>
-        {
-            new IDName() {ID = 1, Name = "Pending"},
-            new IDName() {ID = 2, Name = "Approved"}
-        };
+        public static readonly Statuses Pending = new Statuses(1, "Pending");
+        public static readonly Statuses Completed = new Statuses(2, "Completed");
 
-        public static IDName FindItem(int i)
-        {
-            return statuses.FirstOrDefault(Statuses => Statuses.ID == i);
-        }
-
-        public IEnumerator<IDName> GetEnumerator()
-        {
-            return statuses.GetEnumerator();
-        }
-
-        IEnumerator IEnumerable.GetEnumerator()
-        {
-            return statuses.GetEnumerator();
-        }
+        private Statuses() { }
+        private Statuses(int value, string displayName) : base(value, displayName) { }
     }
 }
